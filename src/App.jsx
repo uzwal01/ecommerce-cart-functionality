@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Navbar from "./components/Navbar";
-import Productlist from "./components/Productlist";
+import Productlist from "./components/ProductList";
 import { products } from "./data/products";
 import CartModal from "./components/CartModal";
 
